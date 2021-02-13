@@ -20,4 +20,6 @@ jobs:
         uses: scala-steward-org/scala-steward-action@v2
         with:
           github-token: ${{ steps.generate_token.outputs.token }}
+          author-email: "78953241+scala-ojisan[bot]@users.noreply.github.com"
+          author-name: "scala-ojisan[bot]"
           repos-file: "repos.md"
