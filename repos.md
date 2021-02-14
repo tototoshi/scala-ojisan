@@ -1,3 +1,4 @@
 - tototoshi/hello.g8
 - tototoshi/dbcache
 - tototoshi/play-json4s
+- tototoshi/plantuml-editor
