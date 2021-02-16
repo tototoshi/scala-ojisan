@@ -1,4 +1,5 @@
-- tototoshi/hello.g8
 - tototoshi/dbcache
-- tototoshi/play-json4s
+- tototoshi/hello.g8
 - tototoshi/plantuml-editor
+- tototoshi/play-joda-routes-binder
+- tototoshi/play-json4s
