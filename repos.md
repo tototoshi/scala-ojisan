@@ -3,3 +3,4 @@
 - tototoshi/plantuml-editor
 - tototoshi/play-joda-routes-binder
 - tototoshi/play-json4s
+- tototoshi/scala-csv
