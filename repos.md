@@ -4,4 +4,5 @@
 - tototoshi/play-joda-routes-binder
 - tototoshi/play-json4s
 - tototoshi/play-reverse-router-extension
+- tototoshi/play-ws-standalone-json4s
 - tototoshi/scala-csv
