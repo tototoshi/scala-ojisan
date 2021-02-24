@@ -1,6 +1,7 @@
 - tototoshi/csv2xls
 - tototoshi/dbcache
 - tototoshi/hello.g8
+- tototoshi/hello-play-28.g8
 - tototoshi/plantuml-editor
 - tototoshi/play-joda-routes-binder
 - tototoshi/play-json4s
