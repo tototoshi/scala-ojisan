@@ -5,6 +5,7 @@
 - tototoshi/plantuml-editor
 - tototoshi/play-joda-routes-binder
 - tototoshi/play-json4s
+- tototoshi/play-json-naming
 - tototoshi/play-reverse-router-extension
 - tototoshi/play-ws-standalone-json4s
 - tototoshi/scala-csv
