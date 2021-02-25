@@ -9,3 +9,4 @@
 - tototoshi/play-reverse-router-extension
 - tototoshi/play-ws-standalone-json4s
 - tototoshi/scala-csv
+- scala-js-electron-text-editor
