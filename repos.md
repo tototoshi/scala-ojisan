@@ -2,6 +2,7 @@
 - tototoshi/dbcache
 - tototoshi/hello.g8
 - tototoshi/hello-play-28.g8
+- tototoshi/mvnsearch
 - tototoshi/plantuml-editor
 - tototoshi/play-joda-routes-binder
 - tototoshi/play-json4s
