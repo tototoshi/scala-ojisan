@@ -4,6 +4,7 @@
 - tototoshi/hello-play-28.g8
 - tototoshi/mvnsearch
 - tototoshi/plantuml-editor
+- tototoshi/play-filter-only
 - tototoshi/play-joda-routes-binder
 - tototoshi/play-json4s
 - tototoshi/play-json-naming
