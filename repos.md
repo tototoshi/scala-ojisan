@@ -10,6 +10,7 @@
 - tototoshi/play-json-naming
 - tototoshi/play-reverse-router-extension
 - tototoshi/play-ws-standalone-json4s
+- tototoshi/sbt-hot-reload-example
 - tototoshi/sbt-slick-codegen
 - tototoshi/sbt-slick-codegen-example
 - tototoshi/scala-csv
