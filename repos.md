@@ -1,4 +1,3 @@
-- tototoshi/coursier-example
 - tototoshi/csv2xls
 - tototoshi/dbcache
 - tototoshi/hello.g8
