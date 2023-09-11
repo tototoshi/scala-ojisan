@@ -17,7 +17,7 @@ jobs:
           app_id: ${{ secrets.SCALA_OJISAN_APP_ID }}
           private_key: ${{ secrets.SCALA_OJISAN_PRIVATE_KEY }}
       # Need to checkout to read the markdown file
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - run: wget https://raw.githubusercontent.com/scala-steward-org/scala-steward/master/modules/core/src/main/resources/artifact-migrations.conf
       - name: Launch Scala Steward
         uses: scala-steward-org/scala-steward-action@v2
