@@ -17,3 +17,4 @@
 - tototoshi/scala-csv
 - tototoshi/scala-fixture
 - tototoshi/scala-js-electron-text-editor
+- tototoshi/sealed-values
